@@ -24,7 +24,7 @@ Dash é um **framework open-source** criado pela **Plotly**, utilizado para dese
      python -m venv env
      ```
    - Ative o ambiente virtual:
-     - Windows: `.     - Windows: `.\uenv\Scripts\activate`
+     - Windows: `.     - Windows: `.\env\Scripts\activate`
      - Linux/Mac: `source env/bin/activate`
 3. **Instale as Dependências:**
    - Instale as bibliotecas necessárias para o projeto:
